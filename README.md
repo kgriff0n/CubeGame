@@ -29,6 +29,27 @@ server.bat
 
 ---
 
+## ⚙️ Configuration Files
+
+### 🧩 `server.conf`
+Contains the server configuration:
+```
+ip=127.0.0.1
+port=44444
+```
+
+### 💻 `client.conf`
+Contains the client configuration:
+```
+ip=127.0.0.1
+port=44444
+username=KGriffon
+```
+
+Make sure the client and server IP/port match before running.
+
+---
+
 ## 🏗️ Building the Project
 
 To build the project, simply run:
